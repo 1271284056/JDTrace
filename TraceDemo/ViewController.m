@@ -46,7 +46,7 @@ void testCFunc() {
     [super viewDidLoad];
     testCFunc();
     self.age = 10;
-    [self creatOrderFile];
+//    [self creatOrderFile];
     // Do any additional setup after loading the view.
 }
 

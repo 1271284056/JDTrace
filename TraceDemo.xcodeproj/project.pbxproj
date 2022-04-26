@@ -300,7 +300,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5KN6964MFR;
+				DEVELOPMENT_TEAM = U22842LLME;
 				INFOPLIST_FILE = TraceDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.3;
 				LD_GENERATE_MAP_FILE = YES;
@@ -312,7 +312,7 @@
 				ORDER_FILE = ./demo.order;
 				OTHER_CFLAGS = "-fsanitize-coverage=func,trace-pc-guard";
 				OTHER_SWIFT_FLAGS = "-sanitize-coverage=func -sanitize=undefined";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Logic.TraceDemo321;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Logic.symbelDemhkjho;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "TraceDemo/TraceDemo-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -328,7 +328,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5KN6964MFR;
+				DEVELOPMENT_TEAM = U22842LLME;
 				INFOPLIST_FILE = TraceDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.3;
 				LD_GENERATE_MAP_FILE = YES;
@@ -339,7 +339,7 @@
 				ORDER_FILE = ./demo.order;
 				OTHER_CFLAGS = "-fsanitize-coverage=func,trace-pc-guard";
 				OTHER_SWIFT_FLAGS = "-sanitize-coverage=func -sanitize=undefined";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Logic.TraceDemo321;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Logic.symbelDemhkjho;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "TraceDemo/TraceDemo-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
